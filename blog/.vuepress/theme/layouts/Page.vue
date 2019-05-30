@@ -131,12 +131,16 @@
   .post-full-content {
     position: relative;
     margin: 0 auto;
-    padding: 70px 100px 0;
+    padding: 70px 100px;
     min-height: 230px;
     font-family: Georgia, serif;
     font-size: 2.2rem;
     line-height: 1.6em;
     background: #fff;
+    box-shadow:
+      0px 6px 6px -3px rgba(0,0,0,0.2),
+      0px 10px 14px 1px rgba(0,0,0,0.14),
+      0px 4px 18px 3px rgba(0,0,0,0.12);
   }
 
   @media (max-width: 1170px) {
@@ -147,6 +151,7 @@
   @media (max-width: 800px) {
     .post-full-content {
       font-size: 1.9rem;
+      box-shadow: none;
     }
   }
 
