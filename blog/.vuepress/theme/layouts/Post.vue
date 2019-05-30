@@ -142,16 +142,25 @@
     font-size: 2.2rem;
     line-height: 1.6em;
     background: #fff;
+    box-shadow:
+      8px 14px 38px rgba(39,44,49,.06),
+      1px 3px 8px rgba(39,44,49,.03);
   }
 
   @media (max-width: 1170px) {
     .post-full-content {
-      padding: 5vw 7vw 0;
+      padding: 5vw 7vw;
     }
   }
   @media (max-width: 800px) {
     .post-full-content {
       font-size: 1.9rem;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .post-full-content {
+      box-shadow: none;
     }
   }
 
