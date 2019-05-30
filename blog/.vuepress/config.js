@@ -5,6 +5,9 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
+  plugins: [
+    'reading-progress',
+  ],
   markdown: {
     anchor: {
       permalink: false,

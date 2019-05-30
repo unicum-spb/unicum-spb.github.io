@@ -18,12 +18,13 @@
     "prismjs": "^1.15.0",
     "sass-loader": "^7.0.3",
     "striptags": "^3.1.1",
+    "vuepress-plugin-reading-progress": "^1.0.7",
     "vuex": "^3.0.1",
     "vuex-router-sync": "^5.0.0"
   },
   "devDependencies": {
     "vue": "^2.5.16",
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.0.0-alpha.48"
   },
   "peerDependencies": {
     "vue": "2.5.x",
