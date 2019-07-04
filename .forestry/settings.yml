@@ -18,7 +18,7 @@ build:
   preview_command: vuepress build -d .vuepress/dist
   publish_command: bash ./deploy.sh
   preview_output_directory: ".vuepress/dist"
-  output_directory: "/docs/"
+  output_directory: "/docs"
   instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
   preview_docker_image: node:10
   mount_path: "/srv"
