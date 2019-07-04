@@ -1,3 +1,0 @@
----
-readingShow: false
----
