@@ -16,7 +16,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: vuepress build -d .vuepress/dist
-  publish_command: bash ./deploy.sh
+  publish_command: vuepress build blog --dest docs/
   preview_output_directory: ".vuepress/dist"
   output_directory: "/docs"
   instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
