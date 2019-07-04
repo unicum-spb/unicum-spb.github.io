@@ -4,18 +4,18 @@ image: https://picsum.photos/1920/1080/?random&date=2018-08-20
 publish: 2018-08-20
 type: post
 tags:
-  - Metal Ass
-  - Bender
+- Metal Ass
+- Bender
 categories:
-  - futurama
+- futurama
 readingTime: 3 Minutes
----
 
-This is the worst kind of discrimination: the kind against me! A sexy mistake. Look, last night was a mistake. And when we woke up, we had these bodies. No, I'm Santa Claus! Anyone who laughs is a communist!
+---
+This is the worst kind of discrimination: the kind against me! A sexy mistake. Look, last night was a mistake. And when we woke up, we had these bodies. No, I'm Santa Claus! Anyone who laughs is a communist! wqdqdwqwdqwd
 
 <!-- more -->
 
-We'll need to have a look inside you with this camera. __Also Zoidberg.__ *Is that a cooking show?* Fry, you can't just sit here in the dark listening to classical music.
+We'll need to have a look inside you with this camera. **Also Zoidberg.** _Is that a cooking show?_ Fry, you can't just sit here in the dark listening to classical music.
 
 ## Bender, I didn't know you liked cooking. That's so cute.
 
